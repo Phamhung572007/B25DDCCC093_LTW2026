@@ -1,5 +1,4 @@
 import React, { useState, useMemo } from 'react';
-import ReactDOM from 'react-dom/client';
 import './Style_QLD.css';
 
 const StudentItem = ({ student, onDelete }) => {

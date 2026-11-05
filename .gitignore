@@ -26,3 +26,6 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+# Ignore README files
+README.md
+bamang/README.md
